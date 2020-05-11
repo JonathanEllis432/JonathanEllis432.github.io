@@ -1,0 +1,10 @@
+body{
+  background-color: black;
+  color: white;
+}
+h3{
+  text-align: center;
+}
+footer{
+  position: static;
+}
