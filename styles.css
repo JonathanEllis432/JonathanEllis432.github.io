@@ -1,10 +1,31 @@
 body{
-  background-color: black;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: #04052E;
   color: white;
 }
-h3{
+
+h1{
   text-align: center;
 }
-footer{
-  position: static;
+
+h2{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  font-size: 20px;
+}
+
+.flex-container{
+  font-size: 15px;
+}
+
+a {
+  color: #832232;
+}
+a:hover{
+  text-decoration: none;
+  color: #3C153B;
 }
